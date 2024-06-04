@@ -150,7 +150,7 @@ body {
     box-shadow: var(--cor-de-fundo);
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 763px) {
     .container {
         display: block;
         background-image: none;
